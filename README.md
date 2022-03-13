@@ -5,15 +5,3 @@
 </pre>
 </p>
 </details>
-
-<details><summary>ᴅᴇᴘʟʟʏ ᴏɴ ᴠᴘs</summary>
-<p>
-<pre>
-git clone https://github.com/ATHIF-EFX/MW-Group-ManageBOT
-# Install Packages
-# pip3 install -r requirements.txt
-Edit `info.py` with variables as given below then run bot
-python3 bot.py
-</pre>
-</p>
-</details>
